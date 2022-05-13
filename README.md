@@ -27,11 +27,11 @@ THEN I am prompted to select an employee to update and their new role and this i
 *Express
 
 
-## Website
-https://github.com/thetryworks/Employee-Tracker
-## Video
-https://drive.google.com/file/d/19HchDVChFcnvpg6BpMYPmfF1WRuih9b-/view
+## Repository
+https://github.com/thetryworks/E-commerce-Back-End  
 
+## Video
+https://drive.google.com/file/d/1ApnX5w9xPGQ7eImtxXiuRKxVi8NDLepc/view  
 
 ## Contribution
 Made with ❤️ by [Nathaniel Hernandez]
